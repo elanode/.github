@@ -1,1 +1,3 @@
-Elanode
+# Welcome to Elanode!
+
+Thanks for stopping by 🚀
