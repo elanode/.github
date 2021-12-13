@@ -1,6 +1,6 @@
 ---
 name: Elanode's Issue Template
-about: General issue
+about: General issue - Click get started to submit your new issue! 😎
 title: ''
 labels: ''
 assignees: ''
