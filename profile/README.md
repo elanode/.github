@@ -1,4 +1,4 @@
-<img src="/elanode-icon-blue.jpg" width="150"/>
+<img src="/elanode-icon-blue.jpg" width="100"/>
 
 PT. Elanode Digital Group 
 
